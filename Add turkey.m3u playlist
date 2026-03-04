@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1, TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1, TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1, TRT Spor
+https://tv-trtspor.medya.trt.com.tr/master.m3u8
