@@ -4,6 +4,6 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1, TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1, TRT Spor
-https://trt.daioncdn.net/trtspor-yildiz/master.m3u8
+https://trt.daioncdn.net/trtspor/master.m3u8?app=web&platform=trtspor
 #EXTINF:-1, TRT Spor
 https://tv-trtspor-esdai.medya.trt.com.tr/master.m3u8
