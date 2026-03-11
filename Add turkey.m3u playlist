@@ -17,3 +17,15 @@ https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=88jeno2fdszm&app=a20ac41
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=88jfg22idaqx&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 #EXTINF:-1, KANAL D 
 https://pagead2.googlesyndication.com/pagead/gen_204?id=sodar&v=33&t=2&li=v_h.h.3.2.2&sid=nsKxadLXDP6P9fgP68-p8AQ&sc=3110301020238154&bg=...
+#EXTINF:-1, Kanal D
+https://.../kanald/master.mpd
+#EXTINF:-1, CNN TÜRK
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=jiSNK_iaK1o6HYtoDEXS3Q&e=1773268641
+#EXTINF:-1, NTV
+https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&sid=88jgeynt6zgu&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3
+#EXTINF:-1, HALK TV
+https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=88jgjktlhppd&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
+#EXTINF:-1, HABERTÜRK
+https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=88jgoc1cq688&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
+#EXTINF:-1, FB TV
+https://cdn501.mobiltv.net/fbtv-42058.ts?tkn=yBBvNVLbjbcc7jwWTlmIXA&tms=1773272650&hst=tr.mobiltv.net&ip=88.247.154.179&utkn=fdbcf73872af5384a1b91dae4ffc825b&ch=fb-tv-izle&source=fbtv
