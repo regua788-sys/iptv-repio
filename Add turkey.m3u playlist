@@ -1,29 +1,3 @@
 #EXTM3U
-#EXTINF:-1, TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1, TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1, TRT Spor
-https://tv-trtspor-esdai.medya.trt.com.tr/master.m3u8
-#EXTINF:-1, TV8
-https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=88c7gymhxfum&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
-#EXTINF:-1, NOW TV
-https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1773313922&st=izEmL5qii1pCHG-1FdUsGA
-#EXTINF:-1, ATV
-https://trkvz-live.ercdn.net/atvhd/atvhd_1080p.m3u8?st=UxJ5afTZcMN1Q12o2Mw9-w&e=1773990829
-#EXTINF:-1, STAR TV
-https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=88jeno2fdszm&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
-#EXTINF:-1, SHOW TV
-https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=88jfg22idaqx&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
-#EXTINF:-1, ASPOR
-https://trkvz.daioncdn.net/aspor/aspor_1080p.m3u8?e=1773902678&st=3gH4NpP43lNb3Kk3DfMxtg&sid=8987rqpmk6rq&app=45f847c4-04e8-419a-a561-2ebf87084765&ce=3
-#EXTINF:-1, trt belgesel
-https://tv-trtbelgesel-dash.medya.trt.com.tr/master.mpd
-#EXTINF:-1, CNN TÜRK
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8?&live=true&app=com.cnnturk&st=uGbRaZfdafrOIh6Xafv3uA&e=1773869736
-#EXTINF:-1, NTV
-https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&sid=88jgeynt6zgu&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3
-#EXTINF:-1, HALK TV
-https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=88jgjktlhppd&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
-#EXTINF:-1, HABERTÜRK
-https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=88jgoc1cq688&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
+#EXTINF:-1,ATV
+https://trkvz-live.ercdn.net/atvhd/atvhd_1080p.m3u8?st=VXzj3qPdAn_ZXIcp2RnCzQ&e=1773994247
